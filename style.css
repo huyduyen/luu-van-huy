@@ -132,3 +132,36 @@ ul.head-1 > li:hover ul.head-1-con{
 		height: 38em;
 	}
 }
+.link h1{
+	color: red;
+
+	margin-top: 50px;
+	width: 395px;
+	margin: auto;
+	
+	font-family: fantasy;
+	font-weight: bold;
+
+	border-bottom: 2px solid green;
+	
+}
+.link p{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+
+}
+.link p a{
+
+
+	font-size: 15px;
+	text-decoration: none;
+	color: red;
+}
+.link p a:hover{
+	color: green;
+	font-size: 20px;
+	position: 0.5s;
+}
